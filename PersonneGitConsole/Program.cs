@@ -16,9 +16,9 @@ namespace PersonneGitConsole
             Personne p2 = new Personne("Redford", "Robert");
             Console.WriteLine(p2);
             Personne p3 = p2;
-            p3.Age = 33;
-            Console.WriteLine(p2);
-            Console.WriteLine(p3);
+            //p3.Age = 33;
+            //Console.WriteLine(p2);
+            //Console.WriteLine(p3);
             Console.ReadKey();
         }
     }
