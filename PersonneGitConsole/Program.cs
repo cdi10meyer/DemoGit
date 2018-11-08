@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PersonneGitLibrary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,10 @@ namespace PersonneGitConsole
     {
         static void Main(string[] args)
         {
+            Personne p1 = new Personne("Lopper", "Cyndy", 40);
+            Console.WriteLine(p1);
+
+            Console.ReadKey();
         }
     }
 }

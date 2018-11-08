@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonneGitConsole", "PersonneGitConsole\PersonneGitConsole.csproj", "{9C0717CC-B93E-4C16-B463-80F71C546F01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonneGitLibrary", "PersonneGitLibrary\PersonneGitLibrary.csproj", "{6E84BB23-8C89-4CE4-BB45-362ACE1297BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C0717CC-B93E-4C16-B463-80F71C546F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C0717CC-B93E-4C16-B463-80F71C546F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C0717CC-B93E-4C16-B463-80F71C546F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E84BB23-8C89-4CE4-BB45-362ACE1297BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E84BB23-8C89-4CE4-BB45-362ACE1297BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E84BB23-8C89-4CE4-BB45-362ACE1297BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E84BB23-8C89-4CE4-BB45-362ACE1297BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
