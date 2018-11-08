@@ -22,11 +22,6 @@ namespace PersonneGitLibrary
             this.Prenom = prenom;
             this.Age = age;
         }
-
-        public Personne(string nom, string prenom):this(nom, prenom, 18)
-        {
-
-        }
         #endregion "Constructeurs"
 
 
