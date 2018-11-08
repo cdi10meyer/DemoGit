@@ -13,7 +13,8 @@ namespace PersonneGitConsole
         {
             Personne p1 = new Personne("Lopper", "Cyndy", 40);
             Console.WriteLine(p1);
-
+            Personne p2 = new Personne("Redford", "Robert");
+            Console.WriteLine(p2);
             Console.ReadKey();
         }
     }
